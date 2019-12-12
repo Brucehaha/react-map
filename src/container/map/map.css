@@ -1,0 +1,22 @@
+.Map ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.Map li {
+    display: inline-block;
+    margin: 20px;
+}
+
+.Map a {
+    text-decoration: none;
+    color: black;
+}
+
+.Map a:hover,
+.Map a:active {
+    color: #fa923f;
+}
